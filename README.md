@@ -4,4 +4,4 @@ This repo shows that symlinks created with a relative path are well-suited in Gi
 
 Checkout the `wrong_symlink` branch for an example of symbolic link.
 
-See http://www.mokacoding.com/blog/symliks-in-git/ for more details.
+See https://www.mokacoding.com/blog/symliks-in-git/ for more details.
